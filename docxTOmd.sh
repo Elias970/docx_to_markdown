@@ -14,7 +14,7 @@ files=$(find . -name "*.docx")
 
 # iterate over the files
 for file in $files; do
-    echo "Konvertiere $file zu Markdown"
+    echo "Convert $file to Markdown"
 
     # delete spaces in filename
     base_name=$(basename "$file" .docx)
