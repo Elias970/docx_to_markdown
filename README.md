@@ -39,5 +39,5 @@ brew install pandoc
 2. Open a terminal or command prompt and navigate to the directory with the DOCX files and the "docTOmd" script.
 3. Run the following command to convert the DOCX files to Markdown:
 ```
-sh docTOmd
+sh docxTOmd
 ```
