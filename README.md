@@ -22,11 +22,16 @@ sudo dnf install pandoc
 #### Arch Linux
 ```
 sudo pacman -S pandoc
-
 ```
 
-###Windows
+#### Windows
 On Windows, you can download and install Pandoc from the Pandoc website. Note that you may also need to configure the necessary path variables to use Pandoc from the command prompt.
+
+#### macOS
+```
+brew install pandoc
+```
+
 
 ###Usage
 
